@@ -36,7 +36,8 @@
             <li>YouTube:<a href="https://www.youtube.com/channel/UChB0B85xkr4YHH_7sID1d2g">  AKAI REMIX</a></li>
             <li>TikTok:<a href="https://www.tiktok.com/@shuichiakaik5?is_from_webapp=1&sender_device=pc">  CỤC TRƯỞNG FBI</a></li>
             <li>Instagram:<a href="https://www.instagram.com/silver_bullet205/">   silver_bullet205</a></li>
-            <li>SĐT: 0568411761</li>  
+            <li>GitHub:<a href="https://github.com/QuanPhan12">QuânPhan12</a></li>
+            <li>số ĐT: 0568411761 </li>
         </ul>
         <dip>
             <h3>
@@ -47,7 +48,6 @@
                 Cruch
                 </h3>
                 <li>Facebook:<a href="https://www.facebook.com/profile.php?id=100079701780880&mibextid=eHce3h"> Ngọc Tuyền</a></li>
-            </dip>
-          
+            </dip>   
   </body>
 </html>
