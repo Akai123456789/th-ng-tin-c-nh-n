@@ -29,7 +29,7 @@
     <footer>
         <h3>Thông tin liên lạc </h3>
         <ul>
-            <li>Email: shuicchiakaik5@gmail.ccom</li>
+            <li>Email: shuicchiakaik5@gmail.com</li>
             <li>Email:miyamizumitsuha2k5@gmail.com</li>
             <li>Facebook:<a href="https://www.facebook.com/phantatquan2k5">Phan Tất Quân </a></li>
             <li>Facebool:<a href="http://www.facebook.com/pquan2005"> phan Tất Quân</a></li>
