@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <link rel="icon" href="https://github.com/settings/security-log"/>
-    <title><i>Mèo Nghiền Anime</i></title>
+    <title>Mèo Nghiền Anime</title>
   </head>
   <body>
     <img
@@ -14,27 +14,27 @@
     <h3><i>PHAN Tất Quân</i></h3>
     <dip> 
         <h3>
-           Châm ngôn sống: <font color="blue" > TÂM TĨNH NHƯ NƯỚC </font>
+           Châm ngôn sống: <font color="blue"><i> TÂM TĨNH NHƯ NƯỚC </i> </font>
         </h3>
     </dip>
-    
     <dip>
       <h3>Sở thích của mình là:</h3>
-      <ul>
+       <ul>
         <li>Đọc sách</li>
         <li>Xem Anime Và đọc Manga</li>
         <li>Nghe nhạc</li>
       </ul>
     </dip>
     <footer>
-        <h3><font color="blue" >Thông tin liên lạc </font></h3>
+        <h3> Thông tin liên lạc </h3>
         <ul>
             <li>Email: shuicchiakaik5@gmail.com</li>
-            <li>Email:miyamizumitsuha2k5@gmail.com</li>
+            <li>Email: miyamizumitsuha2k5@gmail.com</li>
             <li>Facebook:<a href="https://www.facebook.com/phantatquan2k5">Phan Tất Quân </a></li>
             <li>Facebool:<a href="http://www.facebook.com/pquan2005"> phan Tất Quân</a></li>
-            <li>YouTube:<a href="https://www.youtube.com/channel/UChB0B85xkr4YHH_7sID1d2g">  AKAI REMIX</a></li>
-            <li>TikTok:<a href="https://www.tiktok.com/@shuichiakaik5?is_from_webapp=1&sender_device=pc">  CỤC TRƯỞNG FBI</a></li>
+            <li>Facebook:<a href="https://www.facebook.com/profile.php?id=61555442279651"> ACC BOT </a></li>
+            <li> youtube :<a href ="https://www.youtube.com/channel/UCFgj5OBh0P4SEXraQJlZfEQ">  Mitsuha Senpai</a></li>
+            <li>Tik<li>YouTube:<a href="https://www.tiktok.com/@shuichiakaik5?is_from_webapp=1&sender_device=pc">  CỤC TRƯỞNG FBI</a></li>
             <li>Instagram:<a href="https://www.instagram.com/silver_bullet205/">   silver_bullet205</a></li>
             <li>GitHub:<a href="https://github.com/QuanPhan12"><i>QuanPhan12</i></a></li>
             <li>Số ĐT: 0568411761 </li>
@@ -47,7 +47,7 @@
               background-attachment: fixed;  
               background-size: cover;
             }
-            </style>
-            </head>
+          </style>
+         </head>
   </body>
 </html>
