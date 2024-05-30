@@ -34,7 +34,7 @@
             <li>Facebool:<a href="http://www.facebook.com/pquan2005"> phan Tất Quân</a></li>
             <li>Facebook:<a href="https://www.facebook.com/profile.php?id=61555442279651"> ACC BOT </a></li>
             <li> youtube :<a href ="https://www.youtube.com/channel/UCFgj5OBh0P4SEXraQJlZfEQ">  Mitsuha Senpai</a></li>
-            <li>Tik<li>YouTube:<a href="https://www.tiktok.com/@shuichiakaik5?is_from_webapp=1&sender_device=pc">  CỤC TRƯỞNG FBI</a></li>
+            <li>Tiktok:<a href="https://www.tiktok.com/@shuichiakaik5?is_from_webapp=1&sender_device=pc">  CỤC TRƯỞNG FBI</a></li>
             <li>Instagram:<a href="https://www.instagram.com/silver_bullet205/">   silver_bullet205</a></li>
             <li>GitHub:<a href="https://github.com/QuanPhan12"><i>QuanPhan12</i></a></li>
             <li>Số ĐT: 0568411761 </li>
