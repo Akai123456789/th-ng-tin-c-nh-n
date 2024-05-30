@@ -42,7 +42,7 @@
             <head>
             <style>
             body {
-              background-image: url('https://i.pinimg.com/564x/28/61/d3/2861d3ae0464db2bb08008b4b03262f8.jpg');
+              background-image: url('https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6c463ed7-b290-4c55-593d-baf4ed4fa900/width=450/01420-495632049-masterpiece,%201girl,%20Mahiru%20Shiina,%20school%20uniform_.jpeg');
               background-repeat: no-repeat;
               background-attachment: fixed;  
               background-size: cover;
